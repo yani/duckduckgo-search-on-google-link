@@ -3,7 +3,7 @@
 // @version      1
 // @description  Adds a 'Search on Google' link to the DuckDuckGo search results
 // @author       Yani
-// @match        https://github.com/yanikore/duckduckgo-search-on-google-link/blob/master/duckduckgo-search-on-google-link.user.js
+// @match        https://github.com/yanikore/duckduckgo-search-on-google-link/raw/master/duckduckgo-search-on-google-link.user.js
 // @grant        none
 // ==/UserScript==
 
