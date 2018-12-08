@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         DuckDuckGo - Search on Google link
-// @version      1
+// @version      1.1
 // @description  Adds a 'Search on Google' link to the DuckDuckGo search results
 // @author       Yani
-// @match        https://github.com/yanikore/duckduckgo-search-on-google-link/raw/master/duckduckgo-search-on-google-link.user.js
+// @respository  https://github.com/yanikore/duckduckgo-search-on-google-link
+// @updateURL    https://github.com/yanikore/duckduckgo-search-on-google-link/raw/master/duckduckgo-search-on-google-link.user.js
+// @match        https://duckduckgo.com/*
 // @grant        none
 // ==/UserScript==
 
